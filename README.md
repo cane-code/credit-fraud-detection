@@ -1,5 +1,7 @@
-# Retyping final evaluation procedures by Mauludil Asri M Cane | 24.55.1603
-# Software Enginering Lecturer by Robert Marco, S.T., M.T., Ph.D & Hanif Al Fatta, S.Kom., M.Kom., Ph.D
+# Retyping final evaluation procedures by 
+    Mauludil Asri M Cane | 24.55.1603
+# Software Enginering Lecturer by 
+    Robert Marco, S.T., M.T., Ph.D & Hanif Al Fatta, S.Kom., M.Kom., Ph.D
   
 # Credit Card Fraud Detection - Random Forest
 

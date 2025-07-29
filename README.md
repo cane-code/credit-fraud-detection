@@ -22,10 +22,10 @@ python src/model_rf.py
 
 Model Random Forest dilatih menggunakan dataset Credit Card Fraud Detection. Evaluasi dilakukan pada 30% data uji dengan hasil sebagai berikut:
 
-- **Accuracy**: 98.2%
-- **Precision**: 96.7%
-- **Recall**: 89.5%
-- **F1-Score**: 92.9%
+- **Accuracy**: 99.94%
+- **Precision**: 86.87%
+- **Recall**: 79.05%
+- **F1-Score**: 82.69%
 
 📁 Lihat folder `results/` untuk:
 - Confusion matrix (PNG)

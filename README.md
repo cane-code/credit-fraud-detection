@@ -35,7 +35,8 @@ Model Random Forest dilatih menggunakan dataset Credit Card Fraud Detection. Eva
 - GridSearchCv
 - Imbalanced Dataset
 - Presisi Recal
-- ROC Curve`
+- ROC Curve
+- Grafik Perbandingan Setiap Skenario`
 
 ### 🔍 Confusion Matrix
 ![Confusion Matrix](results/confusion_matrix.png)

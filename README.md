@@ -29,8 +29,13 @@ Model Random Forest dilatih menggunakan dataset Credit Card Fraud Detection. Eva
 
 📁 Lihat folder `results/` untuk:
 - Confusion matrix (PNG)
-- Grafik evaluasi (akurasi vs jumlah tree)
-- Log detail dari `classification_report`
+- Class Distirbution
+- F1-Score antar kelas
+- Top 10 Feture Importance
+- GridSearchCv
+- Imbalanced Dataset
+- Presisi Recal
+- ROC Curve`
 
 ### 🔍 Confusion Matrix
 ![Confusion Matrix](results/confusion_matrix.png)

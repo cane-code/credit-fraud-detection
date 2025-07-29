@@ -1,3 +1,4 @@
+# hyperparameter tuning, and final evaluation procedures by Mauludil Asri M Cane 24.55.1603
 # Credit Card Fraud Detection - Random Forest
 
 Proyek ini merupakan eksperimen machine learning untuk mendeteksi transaksi kartu kredit yang berpotensi fraud, menggunakan algoritma Random Forest.

@@ -11,6 +11,7 @@ Proyek ini merupakan eksperimen machine learning untuk mendeteksi transaksi kart
 ```bash
 pip install -r requirements.txt
 python src/model_rf.py
+
 ## 📊 Hasil Evaluasi
 
 Model Random Forest dilatih menggunakan dataset Credit Card Fraud Detection. Evaluasi dilakukan pada 20% data uji dengan hasil sebagai berikut:

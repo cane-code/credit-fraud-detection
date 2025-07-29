@@ -1,5 +1,5 @@
-# hyperparameter tuning, and final evaluation procedures by 
-  Mauludil Asri M Cane 24.55.1603
+# hyperparameter tuning, and final evaluation procedures by Mauludil Asri M Cane | 24.55.1603
+# Softeare Enginering Robert Lecturer by Marco, S.T., M.T., Ph.D & Hanif Al Fatta, S.Kom., M.Kom., Ph.D
   
 # Credit Card Fraud Detection - Random Forest
 
